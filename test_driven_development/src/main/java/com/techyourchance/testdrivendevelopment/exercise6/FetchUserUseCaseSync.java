@@ -3,7 +3,7 @@ package com.techyourchance.testdrivendevelopment.exercise6;
 import org.jetbrains.annotations.Nullable;
 import com.techyourchance.testdrivendevelopment.exercise6.users.User;
 
-interface FetchUserUseCaseSync {
+public interface FetchUserUseCaseSync {
 
     enum Status {
         SUCCESS,
